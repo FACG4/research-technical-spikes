@@ -2,6 +2,9 @@
 
 # What are technical spikes?
 # When and why would a spike be useful?
+
+
+___
 # How would you successfully spike on a topic?
 # Give an example of how a spike could have helped with last week's projects.
 
@@ -16,3 +19,40 @@
 * **Spikes allow us to answer questions about stories the Product Owner has asked us to do but about which we lack some critical knowledge.**
 
 * **We’re not looking to understand everything about the problem space. We want to simply know enough to be able to ask some relevant questions about the story and get an idea of the scope of work .**
+
+### 1- Create a Small Test (Product Features):
+
+* **Optimization.**
+* **Features.**
+* **Programming language.**
+
+
+### 2- Pairing/Testing a Multitude of Approaches:
+
+* **Testing many different approaches, and comparing the results.**
+* **Share your solutions, provide recommendations.**
+* **Features: More testing, more information, more insight. More capacity to generate solutions.**
+
+
+* **Ecosystem: Comparing the products ecosystem.**
+ * Human resource and human capital.
+ * How many platforms?
+ * Tools: Google Trends.
+
+
+**Example:**
+
+   Features   | environment  | Issues      | advantages      | Recommendations
+   ---        |---           |---          |---              |----
+   A, B, C, D |Environment A | Slow        | Easily readable | Do not use
+
+
+### 3- Brief the Product's Owner.
+Simple explanation of experiments and findings.
+ * What we tried,
+ * What we found,
+ * Why we are using X, Y, Z.
+
+
+
+# Give an example of how a spike could have helped with last week's projects.
