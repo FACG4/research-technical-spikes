@@ -18,9 +18,7 @@ The output of a spike is an estimated for original story
 # When and why would a spike be useful?
 
 
-___
-# How would you successfully spike on a topic?
-# Give an example of how a spike could have helped with last week's projects.
+
 
 ## When?
 
@@ -33,6 +31,9 @@ ___
 * **Spikes allow us to answer questions about stories the Product Owner has asked us to do but about which we lack some critical knowledge.**
 
 * **We’re not looking to understand everything about the problem space. We want to simply know enough to be able to ask some relevant questions about the story and get an idea of the scope of work .**
+
+___
+# How would you successfully spike on a topic?
 
 ### 1- Create a Small Test (Product Features):
 
